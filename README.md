@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 你好，我是 lichaoshuai
 
 #### github基础统计信息
@@ -13,7 +11,7 @@
 
 
 #### 个人信息
-> 一直在学习，啥也没学会（Learn more, know less）
+> 一直在学习，啥也没学会（Learn more, know less）<br/>
 > 主页数据统计：<a href="https://github.com/anuraghazra/github-readme-stats">这里</a>
 
 
