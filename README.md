@@ -10,3 +10,19 @@
 <a href="https://github.com/lichaoshuai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichaoshuai&layout=compact" />
 </a>
+
+
+#### 个人信息
+> 一直在学习，啥也没学会（Learn more, know less）
+
+
+
+<a href="https://github.com/lichaoshuai/advanced-java">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lichaoshuai&repo=advanced-java&theme=radical" />
+</a>
+
+<a href="https://github.com/lichaoshuai/JavaGuide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lichaoshuai&repo=JavaGuide&theme=radical" />
+</a>
+
+
