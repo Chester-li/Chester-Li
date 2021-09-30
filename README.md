@@ -9,13 +9,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichaoshuai&layout=compact" />
 </a>
 
-<br/>
+
 #### 个人信息
 > 一直在学习，啥也没学会（Learn more, know less）<br/>
 > 主页数据统计：<a href="https://github.com/anuraghazra/github-readme-stats">这里</a>
 
 
-<br/>
+
 <a href="https://github.com/lichaoshuai/advanced-java">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lichaoshuai&repo=advanced-java&theme=radical" />
 </a>
