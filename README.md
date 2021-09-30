@@ -14,6 +14,7 @@
 
 #### 个人信息
 > 一直在学习，啥也没学会（Learn more, know less）
+> 主页数据统计：<a href="https://github.com/anuraghazra/github-readme-stats">这里</a>
 
 
 
@@ -24,5 +25,7 @@
 <a href="https://github.com/lichaoshuai/JavaGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lichaoshuai&repo=JavaGuide&theme=radical" />
 </a>
+
+
 
 
